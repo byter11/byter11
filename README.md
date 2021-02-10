@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+![byter11's GitHub stats](https://github-readme-stats.vercel.app/api?username=byter11&show_icons=true&theme=radical&count_private=true)
 <!--
 **byter11/byter11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![byter11's GitHub stats](https://github-readme-stats.vercel.app/api?username=byter11&show_icons=true&theme=radical&count_private=true)
+
 
 Here are some ideas to get you started:
 
