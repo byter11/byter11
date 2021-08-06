@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 ![byter11's GitHub stats](https://github-readme-stats.vercel.app/api?username=byter11&show_icons=true&theme=radical&count_private=true)
 <!--
