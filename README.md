@@ -1,19 +1,32 @@
-### 👋
+# Hi, I'm Mohsin.
 
-![byter11's GitHub stats](https://github-readme-stats.vercel.app/api?username=byter11&show_icons=true&theme=radical&count_private=true)
-<!--
-**byter11/byter11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢 I'm currently building at [Securiti.ai](https://securiti.ai).
 
+Some of my open-source work:
+- 📰 **homefeed**: stay updated with a clean, native [RSS feed widget](https://github.com/byter11/rss-widget).
+- 📖 **[kindlecast](https://f-droid.org/packages/com.byterdevs.rsswidget/)**: a mobile app to convert and send epubs to your Kindle over local Wi-Fi.
+- Small utilities like [pdfimagex](https://byter11.github.io/pdfimagex/), .
+- ⚙️ check out my [neovim configuration](https://github.com/byter11/neovim) for a fast, Lua-based dev environment -- and some other [dotfiles](https://github.com/byter11/dotfiles) for various linux tools.
+- 🧠 my [leetcode solutions](https://github.com/byter11/leetcode) for various algorithmic problems.
 
+---
 
-Here are some ideas to get you started:
+🛠️ Currently Exploring:
+- **Databricks**: learning Lakehouse architecture and big data engineering.
+- **Agentic AI**: building autonomous agents using the **Mosaic AI** framework.
+- Building dev tools and utilities for increased productivity and testability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Outside of coding, I spend a lot of time reading. Some of my favorites and recent picks:
+
+- 🚀 **Project Hail Mary** by Andy Weir: The sun is dying and an amnesiac science teacher is the only one who can save it. High-stakes problem solving at its best.
+- ⏳ **11/22/63** by Stephen King: A high school teacher finds a portal to 1958 and tries to prevent the JFK assassination.
+- 🌌 **Hitchhiker's Guide to the Galaxy**: A comedy about the end of the world, bureaucratic aliens, and the importance of carrying a towel.
+
+---
+
+### Connect
+- GitHub: [@byter11](https://github.com/byter11)
+- Linkedin: [@mohsin-sh](https://www.linkedin.com/in/mohsin-sh/)
+- Working at: [@securitiai](https://github.com/securitiai)
