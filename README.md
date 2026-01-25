@@ -4,7 +4,7 @@
 
 Some of my open-source work:
 - 📰 **homefeed**: stay updated with a clean, native [RSS feed widget](https://github.com/byter11/rss-widget).
-- 📖 **[kindlecast](https://f-droid.org/packages/com.byterdevs.rsswidget/)**: a mobile app to convert and send epubs to your Kindle over local Wi-Fi.
+- 📖 **[kindlecast](https://github.com/byter11/kindlecast)**: a mobile app to convert and send epubs to your Kindle over local Wi-Fi.
 - Small utilities like [pdfimagex](https://byter11.github.io/pdfimagex/), .
 - ⚙️ check out my [neovim configuration](https://github.com/byter11/neovim) for a fast, Lua-based dev environment -- and some other [dotfiles](https://github.com/byter11/dotfiles) for various linux tools.
 - 🧠 my [leetcode solutions](https://github.com/byter11/leetcode) for various algorithmic problems.
