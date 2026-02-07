@@ -28,5 +28,4 @@ Outside of coding, I spend a lot of time reading. Some of my favorites and recen
 
 ### Connect
 - GitHub: [@byter11](https://github.com/byter11)
-- Linkedin: [@mohsin-sh](https://www.linkedin.com/in/mohsin-sh/)
 - Working at: [@securitiai](https://github.com/securitiai)
